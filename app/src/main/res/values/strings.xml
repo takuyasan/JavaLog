@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">JavaLog</string>
+    <string name="LogKeyJavaTest">javatest</string>
+</resources>
